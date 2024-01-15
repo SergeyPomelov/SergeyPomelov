@@ -1,16 +1,14 @@
-### Hi there 👋
+Download the latest CV.
+► https://drive.google.com/open?id=1dBc_umsPi4m6-EEE5rh3BWPTn-sBn8i4
 
-<!--
-**SergeyPomelov/SergeyPomelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm considering positions with Canada/US/UK visa sponsorship.
 
-Here are some ideas to get you started:
+I am a professional with 10+ years of extensive experience in applications architecture; direct interactions with clients; integrating, unit and performance testing. As a lead developer I’m into mentoring; quality assurance, company-wide business processes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I am seeking a challenging and rewarding project in a welcoming team with professional growth opportunities.
+
+OpenSource code examples on GitHub:
+► github.com/SergeyPomelov
+
+I am an active computer science researcher in the computing-performance prediction field. Computer Science Articles:
+► scholar.google.com/citations?hl=en&user=un6yaQwAAAAJ&view_op=list_works&authuser=1&sortby=pubdate

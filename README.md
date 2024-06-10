@@ -1,4 +1,4 @@
-I am an experienced Java Developer with over a decade of expertise in application architecture, direct client interactions, and comprehensive unit and performance testing. Skilled in mentoring teams, establishing efficient business processes, and developing distributed high-load web applications. A computer science researcher in computing performance prediction.
+An experienced Java Developer with over a decade of expertise in application architecture, direct client interactions, and comprehensive unit and performance testing. Skilled in mentoring teams, establishing efficient business processes, and developing distributed high-load web applications. Outside of work, a computer science researcher specializing in computing performance prediction. 
 
 I am eager to contribute to challenging and rewarding projects that offer growth opportunities and allow me to leverage my skills to their fullest potential.
 

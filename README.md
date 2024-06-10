@@ -1,20 +1,12 @@
-Now, I'm considering positions with Canada/US/UK visa sponsorship.
+An experienced Java Developer with over a decade of expertise in application architecture, direct client interactions, and comprehensive unit and performance testing. Skilled in mentoring teams, establishing efficient business processes, and developing distributed high-load web applications. A computer science researcher in computing performance prediction.
 
-I am a professional with 10+ years of extensive experience in applications architecture; direct interactions with clients; integrating, unit and performance testing. As a lead developer I’m into mentoring; quality assurance, company-wide business processes. 
-
-I am seeking a challenging and rewarding project in a welcoming team with professional growth opportunities.
+I am eager to contribute to challenging and rewarding projects that offer growth opportunities and allow me to leverage my skills to their fullest potential.
 
 ___
 
 Download the latest CV.
 
 ► https://drive.google.com/open?id=1dBc_umsPi4m6-EEE5rh3BWPTn-sBn8i4
-
-___
-
-OpenSource code examples on GitHub:
-
-► https://github.com/SergeyPomelov
 
 ___
 

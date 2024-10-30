@@ -6,10 +6,10 @@ ___
 
 Download the latest CV.
 
-► https://drive.google.com/open?id=1dBc_umsPi4m6-EEE5rh3BWPTn-sBn8i4
+► [Google Drive Link](https://drive.google.com/open?id=1VQjonqOj6gDRoGv0ky_WylOhNarI455v&usp=drive_fs)
 
 ___
 
 I am an active computer science researcher in the computing-performance prediction field. Computer Science Articles:
 
-► https://scholar.google.com/citations?hl=en&user=un6yaQwAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
+► [Scholar Google Link](https://scholar.google.com/citations?hl=en&user=un6yaQwAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
